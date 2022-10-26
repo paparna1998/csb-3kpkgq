@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://paparna1998.github.io/csb-3kpkgq/static/css/main.bb0411d8.chunk.css",
-    "main.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/main.92d5ede6.chunk.js",
-    "main.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/main.92d5ede6.chunk.js.map",
+    "main.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/main.81ceff01.chunk.js",
+    "main.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/main.81ceff01.chunk.js.map",
     "runtime-main.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/runtime-main.3711c492.js",
     "runtime-main.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/runtime-main.3711c492.js.map",
-    "static/js/2.88f97fc6.chunk.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.88f97fc6.chunk.js",
-    "static/js/2.88f97fc6.chunk.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.88f97fc6.chunk.js.map",
+    "static/js/2.2a70301b.chunk.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.2a70301b.chunk.js",
+    "static/js/2.2a70301b.chunk.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.2a70301b.chunk.js.map",
     "index.html": "https://paparna1998.github.io/csb-3kpkgq/index.html",
     "static/css/main.bb0411d8.chunk.css.map": "https://paparna1998.github.io/csb-3kpkgq/static/css/main.bb0411d8.chunk.css.map",
-    "static/js/2.88f97fc6.chunk.js.LICENSE.txt": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.88f97fc6.chunk.js.LICENSE.txt",
+    "static/js/2.2a70301b.chunk.js.LICENSE.txt": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.2a70301b.chunk.js.LICENSE.txt",
     "static/media/cardFour.89288cca.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardFour.89288cca.JPG",
     "static/media/cardOne.03b8ce1c.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardOne.03b8ce1c.JPG",
     "static/media/cardThree.d389d034.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardThree.d389d034.JPG",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3711c492.js",
-    "static/js/2.88f97fc6.chunk.js",
+    "static/js/2.2a70301b.chunk.js",
     "static/css/main.bb0411d8.chunk.css",
-    "static/js/main.92d5ede6.chunk.js"
+    "static/js/main.81ceff01.chunk.js"
   ]
 }
