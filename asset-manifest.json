@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://paparna1998.github.io/csb-3kpkgq/static/css/main.bb0411d8.chunk.css",
+    "main.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/main.92d5ede6.chunk.js",
+    "main.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/main.92d5ede6.chunk.js.map",
+    "runtime-main.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/runtime-main.3711c492.js",
+    "runtime-main.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/runtime-main.3711c492.js.map",
+    "static/js/2.88f97fc6.chunk.js": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.88f97fc6.chunk.js",
+    "static/js/2.88f97fc6.chunk.js.map": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.88f97fc6.chunk.js.map",
+    "index.html": "https://paparna1998.github.io/csb-3kpkgq/index.html",
+    "static/css/main.bb0411d8.chunk.css.map": "https://paparna1998.github.io/csb-3kpkgq/static/css/main.bb0411d8.chunk.css.map",
+    "static/js/2.88f97fc6.chunk.js.LICENSE.txt": "https://paparna1998.github.io/csb-3kpkgq/static/js/2.88f97fc6.chunk.js.LICENSE.txt",
+    "static/media/cardFour.89288cca.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardFour.89288cca.JPG",
+    "static/media/cardOne.03b8ce1c.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardOne.03b8ce1c.JPG",
+    "static/media/cardThree.d389d034.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardThree.d389d034.JPG",
+    "static/media/cardTwo.1a387fec.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/cardTwo.1a387fec.JPG",
+    "static/media/content.271d8ee1.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/content.271d8ee1.JPG",
+    "static/media/sliderFifth.15863f93.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/sliderFifth.15863f93.JPG",
+    "static/media/sliderForth.25fbe388.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/sliderForth.25fbe388.JPG",
+    "static/media/sliderOne.084b9813.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/sliderOne.084b9813.JPG",
+    "static/media/sliderSecond.fd8582b8.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/sliderSecond.fd8582b8.JPG",
+    "static/media/sliderThird.a2953515.JPG": "https://paparna1998.github.io/csb-3kpkgq/static/media/sliderThird.a2953515.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3711c492.js",
+    "static/js/2.88f97fc6.chunk.js",
+    "static/css/main.bb0411d8.chunk.css",
+    "static/js/main.92d5ede6.chunk.js"
+  ]
+}
